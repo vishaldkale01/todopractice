@@ -1,0 +1,5 @@
+step for Setup Backend 
+packege 1 npm init -y
+`````npm i express mongoos  MongoDb data base
+    npmi i bcryptjs         
+    npm i jsonweb tokken
